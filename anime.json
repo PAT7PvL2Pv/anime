@@ -1,0 +1,87 @@
+{
+  "rules": [
+    {
+     "name": "proxy",
+     "hosts": [
+              "www.ntdm.tv",
+              "www.ntdm8.com",
+              "www.ntdm9.com",
+              "www.88dm.tv",
+              "www.857yhw.com",
+              "dm84.me",
+              "dm84.top",
+              "dm84.tv",
+              "dmbus.cc",
+              "www.dmand5.com",
+              "www.dmd555.com",
+              "acgfans.org/pub.html",
+              "www.yxdm.tv",
+              "www.iyxdm.one",
+              "www.iyxdm.live",
+              "www.lmmzx.com",
+              "www.lmm88.com",
+              "m.lmm55.com",
+              "dm.g916.com"
+              ]
+    }
+  ],
+  "sites": [
+    {
+      "key": "NT动漫",
+      "name": "NT动漫",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/ntdm.js"
+    },
+    {
+      "key": "樱花动漫",
+      "name": "樱花动漫",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./lib/yhdm.jar;md5;fb698601b0df62903eecd7d4f0bbf1d1",
+      "ext": "分类url:https://www.88dm.tv/show/{cateId}--{by}------{catePg}---{year}.html,分类:日本动漫$ribendongman#国产动漫$guochandongman#动漫电影$dongmandianying#欧美动漫$omeidongman"
+    },
+    {
+      "key": "csp_Dm84",
+      "name": "动漫巴士",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./lib/58dm84.jar;md5;0393d0108f2996a2f3f604d90bbbd7b3",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/Dm84.json"
+    },
+    {
+      "key": "动漫岛",
+      "name": "动漫岛",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/动漫岛.js"
+    },
+    {
+      "key": "怡萱动漫",
+      "name": "怡萱动漫",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/怡萱动漫.js"
+    },
+    {
+      "key": "路漫漫",
+      "name": "路漫漫",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/路漫漫.js"
+    },
+    {
+      "key": "csp_Anime1",
+      "name": "Anime1",
+      "type": 3,
+      "api": "csp_Anime1",
+      "jar": "./lib/anime1.jar;md5;31e6192040d63714d063d5a5aba287a9",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    }
+  ]
+}
