@@ -1,0 +1,115 @@
+{
+  "sites": [
+    {
+      "key": "NT动漫",
+      "name": "NT动漫",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/ntdm.js"
+    },
+    {
+      "key": "樱花动漫",
+      "name": "樱花动漫",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./lib/yhdm.jar;md5;fb698601b0df62903eecd7d4f0bbf1d1",
+      "ext": "分类url:https://www.88dm.tv/show/{cateId}--{by}------{catePg}---{year}.html,分类:日本动漫$ribendongman#国产动漫$guochandongman#动漫电影$dongmandianying#欧美动漫$omeidongman"
+    },
+    {
+      "key": "csp_58",
+      "name": "58动漫",
+      "type": 3,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "playerType": 2,
+      "api": "csp_XBPQ",
+      "jar": "./lib/58dm84.jar;md5;0393d0108f2996a2f3f604d90bbbd7b3",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "站名": "58动漫",
+        "主页url": "http://www.ting38.com",
+        "简介": "剧情介绍: &&</p>",
+        "导演": "导演：&&</a>",
+        "主演": "主演：&&</a>",
+        "影片状态": "更新：&&</li>",
+        "影片类型": "类型: &&</a>",
+        "数组": "fed-lazy fed-part-2by3\"&&\"fed-list-title",
+        "标题": "title=\"&&\"",
+        "副标题": "fed-text-center\">&&</span>",
+        "图片": "data-original=\"&&\"",
+        "链接": "href=\"&&\"",
+        "搜索模式": "1",
+        "搜索url": "http://www.ting38.com/search.php?searchword={wd}",
+        "搜索数组": "fed-lazy fed-part-2by3\"&&\"fed-list-title",
+        "搜索标题": "title=\"&&\"",
+        "搜索副标题": "fed-text-center\">&&</span>",
+        "搜索图片": "data-original=\"&&\"",
+        "搜索链接": "href=\"&&\"",
+        "线路数组": "data-toggle=&&</a>[替换:动漫专线⑦>>动漫专线1#动漫专线⑤>>动漫专线2][不包含:动漫专线①#动漫专线②#动漫专线④#动漫专线③#动漫专线⑥]",
+        "线路标题": ">&&<",
+        "播放数组": "<ul class=\"myui-content__list&&</ul>",
+        "播放标题": ">&&<",
+        "播放列表": "<a&&/a>",
+        "分类url": "http://www.ting38.com/ting/{cateId}-{catePg}.html;;ak",
+        "分类": "新番日漫$1#国产动漫$2#动漫电影$4#欧美动漫$3"
+      }
+    },
+    {
+      "key": "csp_Dm84",
+      "name": "动漫巴士",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./lib/58dm84.jar;md5;0393d0108f2996a2f3f604d90bbbd7b3",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/Dm84.json"
+    },
+    {
+      "key": "动漫岛",
+      "name": "动漫岛",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/动漫岛.js"
+    },
+    {
+      "key": "怡萱动漫",
+      "name": "怡萱动漫",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/怡萱动漫.js"
+    },
+    {
+      "key": "路漫漫",
+      "name": "路漫漫",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/路漫漫.js"
+    },
+    {
+      "key": "暮暮动漫",
+      "name": "暮暮动漫",
+      "type": 3,
+      "api": "csp_WebMuTeFun",
+      "jar": "./lib/mumudm.jar;md5;4835bab76ca5ad1c850f2910db3d8950",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://www.2kdm.com"
+    },
+    {
+      "key": "csp_Anime1",
+      "name": "Anime1",
+      "type": 3,
+      "api": "csp_Anime1",
+      "jar": "./lib/anime1.jar;md5;31e6192040d63714d063d5a5aba287a9",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    }
+  ]
+}
