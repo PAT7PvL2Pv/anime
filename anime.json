@@ -1,4 +1,34 @@
 {
+  "rules": [
+    {
+     "name": "proxy",
+     "hosts": [
+              "www.ntdm.tv",
+              "www.ntdm8.com",
+              "www.ntdm9.com",
+              "www.88dm.tv",
+              "www.857yhw.com",
+              "www.ting38.com",
+              "dm84.me",
+              "dm84.top",
+              "dm84.tv",
+              "dmbus.cc",
+              "www.dmand5.com",
+              "www.dmd555.com",
+              "acgfans.org/pub.html",
+              "www.yxdm.tv",
+              "www.iyxdm.one",
+              "www.iyxdm.live",
+              "www.lmmzx.com",
+              "www.lmm88.com",
+              "m.lmm55.com",
+              "dm.g916.com",
+              "anime1.me",
+              "anime1.cc",
+              "anime1.one"
+              ]
+    }
+  ],
   "sites": [
     {
       "key": "NT动漫",
