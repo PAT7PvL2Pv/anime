@@ -49,6 +49,17 @@
       "ext": "分类url:https://www.88dm.tv/show/{cateId}--{by}------{catePg}---{year}.html,分类:日本动漫$ribendongman#国产动漫$guochandongman#动漫电影$dongmandianying#欧美动漫$omeidongman"
     },
     {
+      "key": "csp_Dm84",
+      "name": "动漫巴士",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./lib/58dm84.jar;md5;0393d0108f2996a2f3f604d90bbbd7b3",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/Dm84.json"
+    },
+    {
       "key": "csp_Dm84_1",
       "name": "动漫巴士1",
       "type": 3,
@@ -57,17 +68,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "csp_Dm84_2",
-      "name": "动漫巴士2",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/58dm84.jar;md5;0393d0108f2996a2f3f604d90bbbd7b3",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/Dm84.json"
     },
     {
       "key": "csp_58",
