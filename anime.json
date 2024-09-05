@@ -103,10 +103,10 @@
       "ext": "./lib/Dm84.json"
     },
     {
-      "key": "csp_Dm84",
+      "key": "csp_Dm84_1",
       "name": "动漫巴士1 ",
       "type": 3,
-      "api": "csp_Dm84",
+      "api": "csp_Dm84_1",
       "jar": "./lib/dm84_1.jar;md5;b94a03c8939704e72ecdb68193a9f0f6",
       "searchable": 1,
       "quickSearch": 1,
