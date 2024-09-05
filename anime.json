@@ -95,17 +95,6 @@
       "key": "csp_Dm84",
       "name": "动漫巴士",
       "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/58dm84.jar;md5;0393d0108f2996a2f3f604d90bbbd7b3",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/Dm84.json"
-    },
-    {
-      "key": "csp_Dm84_1",
-      "name": "动漫巴士1 ",
-      "type": 3,
       "api": "csp_Dm84",
       "jar": "./lib/dm84_1.jar;md5;b94a03c8939704e72ecdb68193a9f0f6",
       "searchable": 1,
@@ -132,20 +121,6 @@
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/路漫漫.js"
-    },
-    {
-      "key": "奇米动漫",
-      "name": "奇米动漫",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/奇米动漫.js"
-    },
-    {
-      "key": "去看吧",
-      "name": "去看吧",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/去看吧.js"
     },
     {
       "key": "csp_Anime1",
