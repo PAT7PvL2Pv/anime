@@ -23,6 +23,9 @@
               "www.lmm88.com",
               "m.lmm55.com",
               "dm.g916.com",
+              "www.qimiqimi.net",
+              "www.k9dm.com",
+              "www.qkan9.com",
               "anime1.me",
               "anime1.cc",
               "anime1.one"
@@ -100,6 +103,16 @@
       "ext": "./lib/Dm84.json"
     },
     {
+      "key": "csp_Dm84",
+      "name": "动漫巴士1 ",
+      "type": 3,
+      "api": "csp_Dm84",
+      "jar": "./lib/dm84_1.jar;md5;b94a03c8939704e72ecdb68193a9f0f6",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "动漫岛",
       "name": "动漫岛",
       "type": 3,
@@ -121,15 +134,18 @@
       "ext": "./lib/路漫漫.js"
     },
     {
-      "key": "暮暮动漫",
-      "name": "暮暮动漫",
+      "key": "奇米动漫",
+      "name": "奇米动漫",
       "type": 3,
-      "api": "csp_WebMuTeFun",
-      "jar": "./lib/mumudm.jar;md5;4835bab76ca5ad1c850f2910db3d8950",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://www.2kdm.com"
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/奇米动漫.js"
+    },
+    {
+      "key": "去看吧",
+      "name": "去看吧",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/去看吧.js"
     },
     {
       "key": "csp_Anime1",
