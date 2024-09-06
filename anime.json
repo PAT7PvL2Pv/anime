@@ -26,6 +26,16 @@
               "www.qimiqimi.net",
               "www.k9dm.com",
               "www.qkan9.com",
+              "dick.xfani.com",
+              "dm1.xfdm.pro",
+              "www.dmmiku.com",
+              "www.ysj39.com",
+              "www.ysj39.net",
+              "anime.girigirilove.com",
+              "damidm.com",
+              "idamidm.com",
+              "katedm.com",
+              "985dm.com",
               "anime1.me",
               "anime1.cc",
               "anime1.one"
@@ -45,18 +55,22 @@
       "name": "樱花动漫",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/yhdm.jar;md5;fb698601b0df62903eecd7d4f0bbf1d1",
+      "jar": "./lib/yhdm.jar",
       "ext": "分类url:https://www.88dm.tv/show/{cateId}--{by}------{catePg}---{year}.html,分类:日本动漫$ribendongman#国产动漫$guochandongman#动漫电影$dongmandianying#欧美动漫$omeidongman"
+    },
+    {
+      "key": "xfdm",
+      "name": "稀饭动漫",
+      "type": 3,
+      "api": "csp_Xifan",
+      "jar": "./lib/xfdm.jar",
     },
     {
       "key": "csp_Dm84",
       "name": "动漫巴士",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/58dm84.jar;md5;0393d0108f2996a2f3f604d90bbbd7b3",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "jar": "./lib/58dm84.jar",
       "ext": "./lib/Dm84.json"
     },
     {
@@ -64,10 +78,23 @@
       "name": "动漫巴士1",
       "type": 3,
       "api": "csp_Dm84",
-      "jar": "./lib/dm84_1.jar;md5;b94a03c8939704e72ecdb68193a9f0f6",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "jar": "./lib/dm84_1.jar",
+    },
+    {
+			"key": "ysjdm",
+			"name": "异世界动漫",
+			"type": 3,
+			"api": "csp_Ysj",
+			"jar": "./lib/ysjdm.jar",
+			"searchable": 1,
+			"changeable": 0
+		},
+    {
+      "key": "girigiri爱动漫",
+      "name": "girigiri爱动漫",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/girigirilove.js"
     },
     {
       "key": "csp_58",
@@ -79,10 +106,7 @@
       },
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "./lib/58dm84.jar;md5;0393d0108f2996a2f3f604d90bbbd7b3",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "jar": "./lib/58dm84.jar",
       "ext": {
         "站名": "58动漫",
         "主页url": "http://www.ting38.com",
@@ -141,6 +165,20 @@
       "ext": "./lib/去看吧.js"
     },
     {
+      "key": "大米动漫",
+      "name": "大米动漫",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/大米动漫.js"
+    },
+    {
+      "key": "樱花动漫1",
+      "name": "樱花动漫1",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/樱花动漫1.js"
+    },
+    {
       "key": "怡萱动漫",
       "name": "怡萱动漫",
       "type": 3,
@@ -152,10 +190,7 @@
       "name": "Anime1",
       "type": 3,
       "api": "csp_Anime1",
-      "jar": "./lib/anime1.jar;md5;31e6192040d63714d063d5a5aba287a9",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
+      "jar": "./lib/anime1.jar",
     }
   ]
 }
