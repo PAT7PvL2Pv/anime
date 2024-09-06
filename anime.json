@@ -59,13 +59,6 @@
       "ext": "分类url:https://www.88dm.tv/show/{cateId}--{by}------{catePg}---{year}.html,分类:日本动漫$ribendongman#国产动漫$guochandongman#动漫电影$dongmandianying#欧美动漫$omeidongman"
     },
     {
-      "key": "xfdm",
-      "name": "稀饭动漫",
-      "type": 3,
-      "api": "csp_Xifan",
-      "jar": "./lib/xfdm.jar"
-    },
-    {
       "key": "csp_Dm84",
       "name": "动漫巴士",
       "type": 3,
@@ -81,20 +74,18 @@
       "jar": "./lib/dm84_1.jar"
     },
     {
-			"key": "ysjdm",
-			"name": "异世界动漫",
-			"type": 3,
-			"api": "csp_Ysj",
-			"jar": "./lib/ysjdm.jar",
-			"searchable": 1,
-			"changeable": 0
-    },
-    {
       "key": "girigiri爱动漫",
       "name": "girigiri爱动漫",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/girigirilove.js"
+    },
+    {
+      "key": "动漫岛",
+      "name": "动漫岛",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/动漫岛.js"
     },
     {
       "key": "csp_58",
@@ -137,13 +128,6 @@
       }
     },
     {
-      "key": "动漫岛",
-      "name": "动漫岛",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/动漫岛.js"
-    },
-    {
       "key": "路漫漫",
       "name": "路漫漫",
       "type": 3,
@@ -165,6 +149,29 @@
       "ext": "./lib/去看吧.js"
     },
     {
+      "key": "ysjdm",
+      "name": "异世界动漫",
+      "type": 3,
+      "api": "csp_Ysj",
+      "jar": "./lib/ysjdm.jar",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "怡萱动漫",
+      "name": "怡萱动漫",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/怡萱动漫.js"
+    },
+    {
+      "key": "xfdm",
+      "name": "稀饭动漫",
+      "type": 3,
+      "api": "csp_Xifan",
+      "jar": "./lib/xfdm.jar"
+    },
+    {
       "key": "大米动漫",
       "name": "大米动漫",
       "type": 3,
@@ -177,13 +184,6 @@
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/樱花动漫1.js"
-    },
-    {
-      "key": "怡萱动漫",
-      "name": "怡萱动漫",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/怡萱动漫.js"
     },
     {
       "key": "csp_Anime1",
