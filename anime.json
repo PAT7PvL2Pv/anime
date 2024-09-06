@@ -63,7 +63,7 @@
       "name": "稀饭动漫",
       "type": 3,
       "api": "csp_Xifan",
-      "jar": "./lib/xfdm.jar",
+      "jar": "./lib/xfdm.jar"
     },
     {
       "key": "csp_Dm84",
@@ -78,7 +78,7 @@
       "name": "动漫巴士1",
       "type": 3,
       "api": "csp_Dm84",
-      "jar": "./lib/dm84_1.jar",
+      "jar": "./lib/dm84_1.jar"
     },
     {
 			"key": "ysjdm",
@@ -88,7 +88,7 @@
 			"jar": "./lib/ysjdm.jar",
 			"searchable": 1,
 			"changeable": 0
-		},
+    },
     {
       "key": "girigiri爱动漫",
       "name": "girigiri爱动漫",
@@ -190,7 +190,7 @@
       "name": "Anime1",
       "type": 3,
       "api": "csp_Anime1",
-      "jar": "./lib/anime1.jar",
+      "jar": "./lib/anime1.jar"
     }
   ]
 }
