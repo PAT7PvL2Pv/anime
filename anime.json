@@ -121,9 +121,7 @@
       "name": "异世界动漫",
       "type": 3,
       "api": "csp_Ysj",
-      "jar": "./lib/ysjdm.jar",
-      "searchable": 1,
-      "changeable": 0
+      "jar": "./lib/ysjdm.jar"
     },
     {
       "key": "怡萱动漫",
