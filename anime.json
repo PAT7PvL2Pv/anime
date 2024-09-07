@@ -66,6 +66,13 @@
       "jar": "./lib/58dm84.jar",
       "ext": "./lib/Dm84.js"
     },
+    //{
+      //"key": "csp_Dm84_1",
+      //"name": "动漫巴士1",
+      //"type": 3,
+      //"api": "csp_Dm84",
+      //"jar": "./lib/dm84_1.jar"
+    //},
     {
       "key": "girigiri爱动漫",
       "name": "girigiri爱动漫",
