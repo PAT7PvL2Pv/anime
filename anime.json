@@ -155,8 +155,8 @@
       "key": "csp_Anime1",
       "name": "Anime1",
       "type": 3,
-      "api": "csp_Anime1",
-      "jar": "./lib/anime1.jar"
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/anime1.js"
     }
   ]
 }
