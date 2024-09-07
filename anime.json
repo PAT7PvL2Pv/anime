@@ -152,7 +152,7 @@
       "ext": "./lib/樱花动漫1.js"
     },
     {
-      "key": "csp_Anime1",
+      "key": "Anime1",
       "name": "Anime1",
       "type": 3,
       "api": "./lib/drpy2.min.js",
