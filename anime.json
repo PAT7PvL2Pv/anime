@@ -156,7 +156,7 @@
       "name": "Anime1",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/anime1.js"
+      "ext": "./lib/Anime1.js"
     }
   ]
 }
