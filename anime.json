@@ -96,14 +96,14 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/动漫岛.js"
     },
-    {
-      "key": "csp_58",
-      "name": "58动漫 ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/58dm84.jar",
-      "ext": "./lib/58dm.js"
-    },
+    //{
+      //"key": "csp_58",
+      //"name": "58动漫 ",
+      //"type": 3,
+      //"api": "csp_XBPQ",
+      //"jar": "./lib/58dm84.jar",
+      //"ext": "./lib/58dm.js"
+    //},
     {
       "key": "路漫漫",
       "name": "路漫漫",
