@@ -124,13 +124,13 @@
       //"api": "./lib/drpy2.min.js",
       //"ext": "./lib/奇米动漫.js"
     //},
-    {
-      "key": "去看吧",
-      "name": "去看吧",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/去看吧.js"
-    },
+    //{
+      //"key": "去看吧",
+      //"name": "去看吧",
+      //"type": 3,
+      //"api": "./lib/drpy2.min.js",
+      //"ext": "./lib/去看吧.js"
+    //},
     {
       "key": "ysjdm",
       "name": "异世界动漫",
