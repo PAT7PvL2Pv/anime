@@ -37,7 +37,7 @@
               "www.dmmiku.com",
               "www.ysj39.com",
               "www.ysj39.net",
-              "anime.girigirilove.com",
+              //"anime.girigirilove.com",
               "damidm.com",
               "idamidm.com",
               "katedm.com",
@@ -58,21 +58,21 @@
     }
   ],
   "sites": [
-    {
-      "key": "NT动漫",
-      "name": "NT动漫",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/ntdm.js"
-    },
     //{
-      //"key": "樱花动漫",
-      //"name": "樱花动漫",
+      //"key": "NT动漫",
+      //"name": "NT动漫",
       //"type": 3,
-      //"api": "csp_XBPQ",
-      //"jar": "./lib/58dm84.jar",
-      //"ext": "./lib/yhdm.js"
+      //"api": "./lib/drpy2.min.js",
+      //"ext": "./lib/ntdm.js"
     //},
+    {
+      "key": "樱花动漫",
+      "name": "樱花动漫",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./lib/58dm84.jar",
+      "ext": "./lib/yhdm.js"
+    },
     {
       "key": "csp_Dm84",
       "name": "动漫巴士",
