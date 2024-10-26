@@ -152,20 +152,20 @@
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/大米动漫.js"
-    },
-    {
-      "key": "樱花动漫1",
-      "name": "樱花动漫1",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/樱花动漫1.js"
-    },
-    {
-      "key": "omofun",
-      "name": "omofun",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/omofun.js"
+    //},
+    //{
+      //"key": "樱花动漫1",
+      //"name": "樱花动漫1",
+      //"type": 3,
+      //"api": "./lib/drpy2.min.js",
+      //"ext": "./lib/樱花动漫1.js"
+    //},
+    //{
+      //"key": "omofun",
+      //"name": "omofun",
+      //"type": 3,
+      //"api": "./lib/drpy2.min.js",
+      //"ext": "./lib/omofun.js"
     //},
     //{
       //"key": "Anime1",
