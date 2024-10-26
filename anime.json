@@ -146,13 +146,13 @@
       "type": 3,
       "api": "csp_Xifan",
       "jar": "./lib/xfdm.jar"
-    },
-    {
-      "key": "大米动漫",
-      "name": "大米动漫",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/大米动漫.js"
+    //},
+    //{
+      //"key": "大米动漫",
+      //"name": "大米动漫",
+      //"type": 3,
+      //"api": "./lib/drpy2.min.js",
+      //"ext": "./lib/大米动漫.js"
     //},
     //{
       //"key": "樱花动漫1",
