@@ -145,13 +145,13 @@
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/怡萱动漫.js"
-    },
-    {
-      "key": "xfdm",
-      "name": "稀饭动漫",
-      "type": 3,
-      "api": "csp_Xifan",
-      "jar": "./lib/xfdm.jar"
+    //},
+    //{
+      //"key": "xfdm",
+      //"name": "稀饭动漫",
+      //"type": 3,
+      //"api": "csp_Xifan",
+      //"jar": "./lib/xfdm.jar"
     //},
     //{
       //"key": "大米动漫",
