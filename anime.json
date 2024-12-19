@@ -138,13 +138,13 @@
       "type": 3,
       "api": "csp_Ysj",
       "jar": "./lib/ysjdm.jar"
-    },
-    {
-      "key": "怡萱动漫",
-      "name": "怡萱动漫",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/怡萱动漫.js"
+    //},
+    //{
+      //"key": "怡萱动漫",
+      //"name": "怡萱动漫",
+      //"type": 3,
+      //"api": "./lib/drpy2.min.js",
+      //"ext": "./lib/怡萱动漫.js"
     //},
     //{
       //"key": "xfdm",
