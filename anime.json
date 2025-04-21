@@ -102,7 +102,10 @@
       //"name": "omofun",
       //"type": 3,
       //"api": "./lib/drpy2.min.js",
-      //"ext": "./lib/omofun.js"
+      //"ext": "./lib/omofun.js",
+      //"searchable": 0,
+      //"quickSearch": 0,
+      //"changeable": 0
     //},
     {
       "key": "Anime1",
